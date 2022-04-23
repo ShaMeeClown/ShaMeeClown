@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ShaMeeClown
-- 👀 I’m interested in Web Development and 3D Design
-- 🌱 I’m currently learning Html & CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ShaMeeClown or just Misha
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML & CSS and JavaScript
+- 💞️ At the moment, I am gaining experience
+- 📫 My contacts : Email: mizzatoto@gmail.com or in Telegram: @dodster228
+- 
 
 <!---
 ShaMeeClown/ShaMeeClown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
