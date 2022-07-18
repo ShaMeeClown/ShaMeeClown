@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShaMeeClown or just Misha
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML & CSS and JavaScript
+- 🌱 I’m currently learning HTML & CSS and JavaScript, also planning to learn React.
 - 💞️ At the moment, I am gaining experience
-- 📫 My contacts : Email: mizzatoto@gmail.com or in Telegram: @dodster228
+- 📫
 - 
 
 <!---
