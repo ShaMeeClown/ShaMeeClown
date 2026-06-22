@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaMeeClown or just Misha
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML & CSS and JavaScript, also planning to learn React.
-- 💞️ At the moment, I am gaining experience
+- 👀 I’m interested in Unity 
+- 🌱 Currently I am making an indie horror video game prototype
+- 💞️ 
 - 📫
 - 
 
