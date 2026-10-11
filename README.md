@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShaMeeClown or just Misha
+- 👋 Hi, I’m @ShaMeeClown
 - 👀 I’m interested in Unity 
 - 🌱 Currently I am making an indie horror video game prototype
 - 💞️ 
